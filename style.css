@@ -1,0 +1,381 @@
+/*Inicio*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+#logo{
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 101px;
+    top: 7px;
+}
+
+
+#Información{
+    position: absolute;
+    width: 1252px;
+    height: 346.12px;
+    left: 57px;
+    top: 168px;
+}
+
+#busqueda{
+    position: absolute;
+    width: 710px;
+    height: 50px;
+    left: 328px;
+    top: 19px;
+}
+#perrotext{
+
+    position: absolute;
+    width: 72.42px;
+    height: 23.78px;
+    left: 100.48px;
+    top: 100px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+
+}
+
+.dogbutton{
+    position: absolute;
+    width: 147px;
+    height: 45.4px;
+    left: 54px;
+    top: 86px;
+}
+
+#gatotext{
+
+    position: absolute;
+    width: 63px;
+    height: 23px;
+    left: 1220px;
+    top: 100px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+
+}
+
+.cat_button{
+
+    position: absolute;
+    width: 147px;
+    height: 45.4px;
+    left: 1169px;
+    top: 88px;
+}
+
+
+#menu{
+    position: absolute;
+    width: 1364px;
+    height: 143px;
+    left: 0px;
+    top: 0px;
+}
+
+
+#linea{
+    position: absolute;
+    width: 1293px;
+    height: 0px;
+    left: 36px;
+    top: 591px;
+
+    border: 1px solid #A7A7A7;
+    transform: rotate(-0.09deg);
+}
+
+#text{
+    position: absolute;
+    width: 1254px;
+    height: 54px;
+    left: 79px;
+    top: 622px;
+
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #000000;
+}
+
+#cientifico{
+    position: absolute;
+    width: 101px;
+    height: 101px;
+    left: 150px;
+    top: 732px;
+
+    background: url(cientifico.png);
+}
+
+.cientifico_text{
+
+    position: absolute;
+    width: 268px;
+    height: 58px;
+    left: 67px;
+    top: 858px;
+
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+
+    color: #000000;
+}
+#bombilla{
+    position: absolute;
+    width: 101px;
+    height: 101px;
+    left: 632px;
+    top: 732px;
+
+    background: url(bombilla-de-idea.png);
+}
+
+.bombilla_text{
+    position: absolute;
+    width: 256px;
+    height: 52px;
+    left: 555px;
+    top: 864px;
+
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#conmocion{
+    position: absolute;
+    width: 101px;
+    height: 101px;
+    left: 1114px;
+    top: 732px;
+
+    background: url(conmocion.png);
+}
+
+.conmocion_text{
+    position: absolute;
+    width: 264px;
+    height: 52px;
+    left: 1033px;
+    top: 858px;
+
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#linea2{
+
+    position: absolute;
+    width: 1293px;
+    height: 0px;
+    left: 36px;
+    top: 973.99px;
+
+    border: 1px solid #A7A7A7;
+    transform: rotate(-0.08deg);
+
+}
+
+#razas{
+    position: absolute;
+    width: 624px;
+    height: 68px;
+    left: 371px;
+    top: 1022px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#azawakh{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 526.5px;
+    height: 351px;
+    left: 36px;
+    top: 1141px;
+
+    background: url(azawakh.jpg);
+    border: 1px solid #C4C4C4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 26px;
+}
+
+.azawakh2{
+    position: absolute;
+    width: 492px;
+    height: 86px;
+    left: 53px;
+    top: 1492px;
+
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#peterbald{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 510.58px;
+    height: 354px;
+    left: 818px;
+    top: 1138px;
+
+    background: url(peterbald.jpg);
+    border: 1px solid #ACACAC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 26px;
+}
+
+.peterbald2{
+    position: absolute;
+    width: 446px;
+    height: 66px;
+    left: 850px;
+    top: 1492px;
+
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/*Página de perros*/
+
+.Big_dog{
+    position: absolute;
+    width: 648px;
+    height: 464px;
+    left: 18px;
+    top: 200px;
+}
+
+.Small_dog{
+    position: absolute;
+    width: 648px;
+    height: 464px;
+    left: 697px;
+    top: 200px;
+}
+
+
+/*Perros Grandes*/
+
+#San_bernardo{
+    position: absolute;
+    width: 1316px;
+    height: 560px;
+    left: 25px;
+    top: 234px;
+}
+
+#Gran_danés{
+    position: absolute;
+    width: 1316px;
+    height: 560px;
+    left: 25px;
+    top: 885px;
+}
+
+#Mastin_napolitano{
+    position: absolute;
+    width: 1316px;
+    height: 560px;
+    left: 25px;
+    top: 1536px;
+}
+
+/*Perros Pequeños*/
+
+#Chihuahua{
+    position: absolute;
+    width: 1316px;
+    height: 560px;
+    left: 25px;
+    top: 234px;
+}
+
+#Pomerania{
+    position: absolute;
+    width: 1316px;
+    height: 560px;
+    left: 25px;
+    top: 885px;
+}
+
+#Yorkshiere{
+    position: absolute;
+    width: 1316px;
+    height: 560px;
+    left: 25px;
+    top: 1536px;
+}
+
+/*gatos*/
+
+.Big_cat{
+    position: absolute;
+    width: 648px;
+    height: 464px;
+    left: 18px;
+    top: 200px;
+}
+
+.Small_cat{
+    position: absolute;
+    width: 648px;
+    height: 464px;
+    left: 697px;
+    top: 200px;
+}
